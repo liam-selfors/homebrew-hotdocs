@@ -12,7 +12,7 @@
 class Hotdocs < Formula
   desc "Spec-driven agentic development: specs in, verified code out"
   homepage "https://github.com/liam-selfors/hotdocs"
-  url "https://files.pythonhosted.org/packages/source/h/hotdocs/hotdocs-0.1.0a1.tar.gz"
+  url "https://files.pythonhosted.org/packages/21/85/9c4b3d75d5ccc024f85d59deb542377efa3e152fb5d1a5b89837bde86913/hotdocs-0.1.0a1.tar.gz"
   sha256 "42f9ee2deeab2e64b8e622a0cfe108d83b81b88798c850e677e85f505ada5959"
   license "Apache-2.0"
 
